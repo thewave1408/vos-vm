@@ -30,7 +30,7 @@ stages:
     type: apt
     sources:
       - packages:
-        - vim
+        - just
         - fastfetch
         - btop
 
